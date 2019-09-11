@@ -10,4 +10,4 @@ CRONOGRAMA
 - Considerações 22/09;
 - Correções Introdução e Metodologia 23/09 - 27/09;
 - Correções Resultado Considerações 28/09 - 30/09;
-celine.alves@ifms.edu.br
+celeny.alves@ifms.edu.br
